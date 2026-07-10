@@ -9,7 +9,7 @@
 #1. Re-upload or redistribute the original code to ANY public sources.
 #2. Modify and re-upload the code to ANY public sources.
 
-#If there is a issue with the code, sugggestions please open a issue on github.
+#If there is a issue with the code, suggestions please open a issue on github.
 
 import time
 
