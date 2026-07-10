@@ -1,6 +1,6 @@
 
 
-#Copyright (c) 2026 rxvy-dev (GitHub) / linuxrxvy (TikTok)
+#Copyright © 2026 rxvy-dev (GitHub) / linuxrxvy (TikTok)
 #All rights reserved.
 
 #Permission is hereby granted to use and modify this code solely for your own personal use.
