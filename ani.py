@@ -58,7 +58,7 @@ def show_menu():
 def main():
    while True:
         show_menu()
-
+        global time
         choice = input("choose:")
 
         if choice == '1':
