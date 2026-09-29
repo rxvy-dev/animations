@@ -15219,19 +15219,6 @@ def main():
           """)
 
         elif choice == '34':
-          pass
-        # ============================================
-        # FSOCIETY OSINT MODULE - COMPLETELY HIDDEN
-        # ALL IMPORTS ARE INSIDE HERE
-        # ============================================
-        import time
-        import requests
-        import os
-        import socket
-        import json
-        import platform
-        import subprocess
-        from datetime import datetime
         
         time.sleep(0.1)
         print("""
